@@ -1,0 +1,7 @@
+SIEM Tools: Splunk Enterprise, Splunk Universal Forwarder
+
+Endpoint Monitoring: Microsoft Sysmon, Windows Event Logs
+
+Protocols & Configs: TCP/IP, inputs.conf, outputs.conf
+
+Core Skills: Log Ingestion, Troubleshooting, Telemetry Collection, Incident Investigation
